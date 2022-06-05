@@ -1,0 +1,16 @@
+.completed {
+    text-decoration: line-through;
+    opacity: 0.5;
+}
+
+.check-btn {
+    width: 50px;
+}
+
+.trash-btn {
+    width: 50px;
+}
+
+.fa-square-check, .fa-trash {
+    pointer-events: none;
+}
